@@ -83,5 +83,7 @@ return require("packer").startup(function(use)
     use('dinhhuy258/git.nvim')
     use('jose-elias-alvarez/typescript.nvim')
 
+    -- for navigation
+    use('alexghergh/nvim-tmux-navigation')
 
 end)

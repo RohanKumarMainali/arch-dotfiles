@@ -7,5 +7,33 @@ window:
     columns: 120
     lines: 30
 
-
-
+colors:
+  primary:
+    background: "0x1F1F28"
+    foreground: "0xDCD7BA"
+    selection:
+      background: "0x2D4F67"
+      foreground: "0xC8C093"
+    url: "0x72A7BC"
+    cursor: "0xC8C093"
+  normal:
+    black: "0x090618"
+    red: "0xC34043"
+    green: "0x76946A"
+    yellow: "0xC0A36E"
+    blue: "0x7E9CD8"
+    magenta: "0x957FB8"
+    cyan: "0x6A9589"
+    white: "0xC8C093"
+  bright:
+    black: "0x727169"
+    red: "0xE82424"
+    green: "0x98BB6C"
+    yellow: "0xE6C384"
+    blue: "0x7FB4CA"
+    magenta: "0x938AA9"
+    cyan: "0x7AA89F"
+    white: "0xDCD7BA"
+  indexed:
+    - "0xFFA066"
+    - "0xFF5D62"
